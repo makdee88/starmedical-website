@@ -8,24 +8,32 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; makdee</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; Star Medical</title>
+	<atom:link href="http://localhost/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 15 Jun 2022 18:44:05 +0000</lastBuildDate>
+	<description>Experience the Excellence</description>
+	<lastBuildDate>Sun, 10 Jul 2022 19:22:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/07/cropped-cropped-sm_logo-32x32.jpg</url>
+	<title>Uncategorized &#8211; Star Medical</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/2022/06/15/hello-world/</link>
-					<comments>/2022/06/15/hello-world/#comments</comments>
+		<link>/2022/07/10/hello-world/</link>
+					<comments>/2022/07/10/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 15 Jun 2022 18:44:05 +0000</pubDate>
+		<pubDate>Sun, 10 Jul 2022 19:22:33 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">http:/?p=1</guid>
 
@@ -34,7 +42,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/06/15/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/2022/07/10/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

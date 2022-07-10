@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
+	Comments on: Welcome	</title>
+	<atom:link href="http://localhost/wordpress/sample-page/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 15 Jun 2022 18:44:05 +0000</lastBuildDate>
+	<description>Experience the Excellence</description>
+	<lastBuildDate>Sun, 10 Jul 2022 20:28:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
